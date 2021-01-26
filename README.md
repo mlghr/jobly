@@ -9,5 +9,11 @@ This application was created with CRA and utilizes the React Context API. The ba
 1) `npm i` in project folder
 2) `cd frontend && npm i`
 3) `cd backend && npm i`
-4
+4) From parent folder, `npm run dev`
+
+From there the backend server should start and you will have a new tab open with `localhost:3000` in your browser.
+
+Please contact me if you find any bugs or features you would like to see added.
+
+Thanks!
 
