@@ -20,6 +20,8 @@ function SignupForm({ signup }) {
     password: "",
     firstName: "",
     lastName: "",
+    age: "",
+    about: "",
     email: "",
   });
   const [formErrors, setFormErrors] = useState([]);
@@ -94,6 +96,24 @@ function SignupForm({ signup }) {
                       name="lastName"
                       className="form-control"
                       value={formData.lastName}
+                      onChange={handleChange}
+                  />
+                </div>
+                <div className="form-group">
+                  <label>Age</label>
+                  <input
+                      name="age"
+                      className="form-control"
+                      value={formData.age}
+                      onChange={handleChange}
+                  />
+                </div>
+                <div className="form-group">
+                  <label>About</label>
+                  <input
+                      name="about"
+                      className="form-control"
+                      value={formData.about}
                       onChange={handleChange}
                   />
                 </div>

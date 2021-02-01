@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mlghr/rollplay.git"
+    "url": "git+https://github.com/mlghr/react-jobs.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mlghr/rollplay/issues"
+    "url": "https://github.com/mlghr/react-jobs/issues"
   },
-  "homepage": "https://github.com/mlghr/rollplay#readme",
+  "homepage": "https://github.com/mlghr/react-jobs#readme",
   "devDependencies": {
     "concurrently": "^5.3.0"
   }
