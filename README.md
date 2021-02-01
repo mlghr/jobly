@@ -6,6 +6,8 @@ This application was created with CRA and utilizes the React Context API. The ba
 
 ## Instructions to run
 
+Create `jobly_new` database from the command line and run `psql -f jobly.sql` from the *backend* folder.
+
 1) `npm i` in project folder
 2) `cd frontend && npm i`
 3) `cd backend && npm i`
